@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of format-code
+ */
+export * from './lib/format-code.service';
+export * from './lib/format-code.component';
+export * from './lib/format-code.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL2Zvcm1hdC1jb2RlL3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYywyQkFBMkIsQ0FBQztBQUMxQyxjQUFjLDZCQUE2QixDQUFDO0FBQzVDLGNBQWMsMEJBQTBCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIGZvcm1hdC1jb2RlXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvZm9ybWF0LWNvZGUuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9mb3JtYXQtY29kZS5jb21wb25lbnQnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvZm9ybWF0LWNvZGUubW9kdWxlJztcbiJdfQ==
